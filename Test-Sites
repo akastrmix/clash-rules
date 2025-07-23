@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ip2location.com
   - DOMAIN-SUFFIX,scamalytics.com
   - DOMAIN-SUFFIX,browserscan.net
+  - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-KEYWORD,browserleaks
   - DOMAIN-KEYWORD,surfshark
   - DOMAIN-KEYWORD,astrill
