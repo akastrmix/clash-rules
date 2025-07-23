@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-SUFFIX,ping0.cc
+  - DOMAIN-SUFFIX,ipinfo.io
+  - DOMAIN-SUFFIX,ipapi.is
+  - DOMAIN-SUFFIX,ip2location.com
+  - DOMAIN-SUFFIX,scamalytics.com
+  - DOMAIN-SUFFIX,browserscan.net
+  - DOMAIN-KEYWORD,browserleaks
+  - DOMAIN-KEYWORD,surfshark
+  - DOMAIN-KEYWORD,astrill
