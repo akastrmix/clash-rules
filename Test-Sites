@@ -8,6 +8,12 @@ payload:
   - DOMAIN-SUFFIX,ipleak.net
   - DOMAIN-SUFFIX,dnsleaktest.com
   - DOMAIN-SUFFIX,dnsleak.com
+  - DOMAIN-SUFFIX,ipdata.co
+  - DOMAIN-SUFFIX,ipip.la
+  - DOMAIN-SUFFIX,ipipseek.com
+  - DOMAIN-SUFFIX,ipjiance.com
+  - DOMAIN-SUFFIX,ip-api.com
   - DOMAIN-KEYWORD,browserleaks
   - DOMAIN-KEYWORD,surfshark
   - DOMAIN-KEYWORD,astrill
+  - DOMAIN-KEYWORD,ipregistry
