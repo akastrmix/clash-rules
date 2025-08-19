@@ -5,3 +5,5 @@ payload:
   - DOMAIN,sdk.iad-06.braze.com
   - DOMAIN,api3.branch.io
   - DOMAIN,cdn.branch.io
+  - DOMAIN,ironskyapi.seciron.com
+  - DOMAIN,roomq.noqstatus.com
