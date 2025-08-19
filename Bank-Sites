@@ -1,2 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,welab.bank
+  - DOMAIN-SUFFIX,meawallet.app
+  - DOMAIN-SUFFIX,noq.com.hk
+  - DOMAIN,sdk.iad-06.braze.com
+  - DOMAIN,api3.branch.io
+  - DOMAIN,cdn.branch.io
