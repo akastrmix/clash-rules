@@ -7,11 +7,11 @@ Create your own ruleset on github that contains domains of servers that you play
 Say that the custom ruleset you created is called `Game-Site`, in the `rule-providers` category, paste:
 ```
 Game-Site:
-    type: http
-    behavior: classical
-    url: "https://raw.githubusercontent.com/<your name>/<your repo>/main/Game-Sites"
-    proxy: <main proxy>
-    interval: 86400
+  type: http
+  behavior: classical
+  url: "https://raw.githubusercontent.com/<your name>/<your repo>/main/Game-Sites"
+  proxy: <main proxy>
+  interval: 86400
 ```
 Modify the url and proxy to make it work for your config.
 
