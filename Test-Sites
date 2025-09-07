@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,ipipseek.com
   - DOMAIN-SUFFIX,ipjiance.com
   - DOMAIN-SUFFIX,ip-api.com
+  - DOMAIN-SUFFIX,ipqualityscore.com
   - DOMAIN-KEYWORD,browserleaks
   - DOMAIN-KEYWORD,surfshark
   - DOMAIN-KEYWORD,astrill
