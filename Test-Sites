@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,ip-api.com
   - DOMAIN-SUFFIX,ipqualityscore.com
   - DOMAIN-SUFFIX,ip2proxy.com
+  - DOMAIN-SUFFIX,db-ip.com
   - DOMAIN-KEYWORD,browserleaks
   - DOMAIN-KEYWORD,surfshark
   - DOMAIN-KEYWORD,astrill
