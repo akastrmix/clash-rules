@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,dnsleaktest.org
   - DOMAIN-SUFFIX,ipapi.co
   - DOMAIN-SUFFIX,ippure.com
+  - DOMAIN-SUFFIX,iplark.com
   - DOMAIN-KEYWORD,browserleaks
   - DOMAIN-KEYWORD,surfshark
   - DOMAIN-KEYWORD,astrill
